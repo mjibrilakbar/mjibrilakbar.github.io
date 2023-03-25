@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#home {
+    padding-top: 10rem;
+    background-color: white
+}
+
+#about {
+    padding-top: 10rem;
+    font-family: Comic Sans MS;
+}
+
+#skills {
+    padding-top: 10rem;
+    font-family: Comic Sans MS;
+    background-color: white;
+    padding-right: auto;
+    padding-left: auto;
+}
+
+.card {
+    margin: 45px;
+}
